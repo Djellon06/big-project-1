@@ -1,0 +1,173 @@
+@media screen and (max-width:414px)  {
+        
+        .body{
+            width:413px;
+        }.home{
+            width: 425px;
+            height:400px;
+            background-position: left;
+        }
+       .home .logo{
+        font-size: 30px;
+        margin-left: 50px;
+       }
+       .kry{
+        
+        margin-top: 50px;
+    margin-left: 50px;
+    width:400px;
+    height:300px;
+    
+   
+
+       }
+       .kry .baza{
+        font-size: 40px;
+        margin-top: 50px;
+       }
+       .kry .pj2{
+        font-size: 40px;
+        
+       }
+       .rekl{
+       
+        height:800px;
+        width:800px
+        ;
+        margin-left: 300px;
+       
+        
+       } .kry .pj2{
+        margin-top:0px;
+        font-size: 10px;
+       }
+       .rekl{
+        margin-left: 0px;
+        
+        width:400px;
+        height:400px;
+       }
+       .rekl .tit{
+        font-size: 30px;
+        text-align: center;
+
+       }
+       .rekl .permb{
+        font-size: 25px;
+        text-align: center;
+       }
+       .virek{
+        display: block;
+        
+       }
+       .video{
+    
+      margin-left: 35px;
+        width:300px;
+       }
+       .vid{
+        margin-left: 0;
+        height:300px;
+        width: 300px;
+       }
+       .qmimet{
+
+        width: 400px;
+        height:3000px;
+        display:block;
+       }
+       .qmimet .qmimi{
+        font-size: 50px;
+        margin-top: -70px;
+        margin-left: 100px;
+        
+       }
+        .q2 , .q3
+    {
+        width:400px
+        ;
+        height:500px;
+        margin:0;
+        
+
+    }
+  
+    
+    #q1{
+        
+        width:400px;
+        height:600px;
+        margin:0;
+    }
+     .qd2, .qd3{
+        width:300px;
+        height:500px;
+        font-size: 30px;
+        margin-left:50px;
+        
+
+        
+        
+        
+    }
+    .qd1{
+        width:300px;
+        height:500px;
+        font-size: 30px;
+        
+    }
+    .qmimi{
+        margin-top: -10px;
+    
+    }
+    .qmimet{
+        margin-top: 50px;
+        
+        height:1650px;    }
+    .trqz{
+        font-size: 50px;
+        margin-right: -190px;
+    }
+    #h1shi{
+        margin-left: 70px;
+    }
+    .fotot{
+       
+        
+       display: block;
+    }
+    .renii1{
+        display: block;
+        
+    }
+    #re1{
+        
+       width:300px;
+        margin-top: 00px;
+        margin-left: 50px;
+        display: block;
+        
+    }
+    #renn1{
+        width: 400px;
+        
+        height:900px;
+    }
+    #renn1 div{
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    #re1 div{
+        margin-left: 0px;
+    }
+    .f4, .f5, .f6 {
+        
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .fotot div
+{
+        width:300px;
+        height:300px;
+    }
+}

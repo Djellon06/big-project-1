@@ -1,0 +1,106 @@
+ @media screen and (max-width:900px)  {
+        
+        .body{
+            width:414px;
+        }.home{
+            width:1857px;
+            height:980px;
+        }
+       .home .logo{
+        font-size: 50px;
+        margin-left: 250px;
+       }
+       .kry{
+        
+        margin-top: 200px;
+    margin-left: 100px;
+    width:1450px;
+    height:900px;
+   
+
+       }
+       .kry .baza{
+        font-size: 150px;
+       }
+       .kry .pj2{
+        font-size: 40px;
+       }
+       .rekl{
+       
+        height:800px;
+        width:800px
+        ;
+        margin-left: 300px;
+       
+        
+       }.rekl .tit{
+        font-size: 80px;
+       }
+       .rekl .permb{
+        font-size: 50px;
+       }
+       .virek{
+        
+        
+       }
+       .video{
+      
+        width:600px;
+       }
+       .vid{
+        height:800px;
+        width: 800px;
+       }
+       .qmimet{
+        
+        width: 1845px;
+        height:1000px
+       }
+       .qmimet .qmimi{
+        font-size: 50px;
+        margin-left: 900px;
+       }
+        .q2 , .q3
+    {
+        width:500px
+        ;
+        height:900px;
+
+    }
+    #q1{
+        width:500px;
+        height:900px;
+    }
+     .qd2, .qd3{
+        
+        height:800px;
+        font-size: 60px;
+    }
+    .qd1{
+        
+        height:800px;
+        font-size: 60px;
+    }
+    .qmimi{
+        margin-top: -10px;
+        
+    }
+    .qmimet{
+        margin-top: 50px;
+    }
+    .trqz{
+        font-size: 50px;
+        margin-right: -190px;
+    }
+    #h1shi{
+        margin-left: 150px;
+    }
+    .fotot{
+       
+    }
+    .fotot div
+{
+        width:1800px;
+        height:600px;
+    }
+}
